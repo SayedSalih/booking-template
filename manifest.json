@@ -1,6 +1,8 @@
 {
   "short_name": "React App",
-  "name": "Create React App Sample",
+  "name": "sample-page",
+	"version": "0.1.0",
+	"homepage": "https://sayedsalih.github.io/booking-template",
   "icons": [
     {
       "src": "favicon.ico",
